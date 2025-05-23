@@ -3,5 +3,5 @@
 
 # But not these!
 !.gitignore
-!demo cart selenium.ipynb
+!saucedemo selenium.ipynb
 !README.md
